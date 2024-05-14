@@ -1,0 +1,13 @@
+#show-that-link-popup {
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 12px;
+    color: #333;
+    z-index: 1000;
+    max-width: 300px;
+    word-wrap: break-word;
+  }
+  
