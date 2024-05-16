@@ -43,4 +43,3 @@ chrome.storage.sync.get('extensionDisabled', function(data) {
     });
   }
 });
-  
