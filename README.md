@@ -19,7 +19,7 @@
 
 ### From the Chrome Web Store
 
-_Pending publication on the Chrome Web Store._
+[Download this extension](https://chromewebstore.google.com/detail/show-that-link/ihapnoabdilbmjicobokjkpanipkjimo)
 
 ## Usage
 
