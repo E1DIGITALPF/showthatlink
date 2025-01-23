@@ -17,10 +17,6 @@
 3. Enable "Developer mode" in the top right corner.
 4. Click on "Load unpacked" and select the folder where you downloaded the project.
 
-### From the Chrome Web Store
-
-[Download this extension](https://chromewebstore.google.com/detail/show-that-link/ihapnoabdilbmjicobokjkpanipkjimo)
-
 ## Usage
 
 1. Install the extension as described in the installation section.
